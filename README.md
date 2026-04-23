@@ -45,18 +45,6 @@ Python-Swiggy-Sales-Analysis/
 
 ---
 
-## 📸 Sample Visualizations
-
-### 📈 Rating Distribution
-![Rating Chart](outputs/charts/rating_distribution.png)
-
-### 💰 Price vs Rating
-![Price vs Rating](outputs/charts/price_vs_rating.png)
-
-### 🍽️ Top Cuisines
-![Top Cuisines](outputs/charts/top_cuisines.png)
-
----
 
 ## 📬 Contact
 - LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muzammil-sk/)
