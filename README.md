@@ -1,2 +1,32 @@
-# Python-Swiggy-Sales-Analysis
-Analyzes food delivery sales data using Python to uncover customer preferences, pricing trends, and restaurant performance. Includes data cleaning, exploratory data analysis, and visualizations to generate actionable business insights.
+# 📊 Swiggy Sales Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+## 📌 Project Overview
+This project analyzes food delivery sales data to uncover customer preferences, pricing trends, and restaurant performance using Python.
+
+---
+
+## 🎯 Objectives
+- Data Cleaning and Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Business Insights Generation  
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+
+---
+
+## 📂 Project Structure
